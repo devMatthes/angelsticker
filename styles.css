@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     background: linear-gradient(135deg, #FFB6C1 0%, #FFC0CB 25%, #FFCCCB 50%, #FFE4E1 75%, #FFF0F5 100%);
     min-height: 100vh;
     display: flex;
